@@ -1,15 +1,16 @@
-h1 {
-    display: block;
-    front-size: medium;
-    font-weight: bold;
-    color: pink
+h1{
+display: block;
+font-size: large;
+font-weight: bold;
+color: brown;
 }
 
-body {
-    background-color: lightblue;
+body{
+    background-color: antiquewhite;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
+
 img{
     width: 300px;
     height: 300px;
@@ -18,14 +19,12 @@ img{
     border: 5px solid black;
 }
 
-button {
-    padding: 12px 24px;
-    front-size: 16px;
-    background-color: white;
-    color:aqua;
+button{
+    padding: 12px 25px;
+    font-size: 16px;
+    background-color: coral;
+    color: orange;
     border: 3px solid black;
+    border-radius: 8px;
     cursor: pointer;
-}
-.container{
-    text-align: center;
 }
